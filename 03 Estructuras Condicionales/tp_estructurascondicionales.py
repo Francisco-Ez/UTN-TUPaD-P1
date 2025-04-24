@@ -167,7 +167,7 @@ elif magnitud >= 7:
 else:
     pass
 
-#10)Desde el 21 de diciembre hasta el 20 de
+#10)
 #Escribir un programa que pregunte al usuario en cuál hemisferio se encuentra (N/S), qué mes
 #del año es y qué día es. El programa deberá utilizar esa información para imprimir por pantalla
 #si el usuario se encuentra en otoño, invierno, primavera o verano.
