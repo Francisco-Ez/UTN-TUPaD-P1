@@ -102,6 +102,8 @@ else:
  # Si la contraseña tiene una longitud fuera de este rango, solicitamos que ingrese una nueva contraseña
  print("Por favor, ingrese una contraseña de entre 8 y 14 caracteres")
 
+
+
 #6) escribir un programa que tome la lista
 #numeros_aleatorios, calcule su moda, su mediana y su media y las compare para determinar si
 #hay sesgo positivo, negativo o no hay sesgo. Imprimir el resultado por pantalla.
